@@ -1,0 +1,31 @@
+fieldset[name=login]  
+{
+width:auto;
+margin:7% 30%;
+border-radius:5px;
+background:rgba(0,100,202,0.8);
+border:0;
+box-shadow:rgba(255,255,255,0.7) 1px 1px 3px 2px;
+}
+#login
+{
+padding:10px 30px;
+}
+form[name=changepassword]
+{
+margin:20px 10px;
+
+}
+form[name=login]
+{
+margin:30px 35px;
+
+}
+form[name=login] label
+{
+	width:250px !important;
+}
+label[for=chngpass]
+{
+	width:300px !important;
+}
